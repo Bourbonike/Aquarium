@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-mergeDebugResources-20:/layout/item_page.xml",
+        "source": "org.hyperskill.aquarium.Aquarium-task-main-23:/layout/item_page.xml"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-mergeDebugResources-20:/layout/activity_main.xml",
+        "source": "org.hyperskill.aquarium.Aquarium-task-main-23:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-mergeDebugResources-20:/layout/fragment_main.xml",
+        "source": "org.hyperskill.aquarium.Aquarium-task-main-23:/layout/fragment_main.xml"
+    }
+]

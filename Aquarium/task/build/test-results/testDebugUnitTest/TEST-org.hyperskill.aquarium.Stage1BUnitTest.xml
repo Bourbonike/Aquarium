@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.aquarium.Stage1BUnitTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-09-11T15:19:40" hostname="DESKTOP-4UTSA8I" time="4.266">
+  <properties/>
+  <testcase name="test00_checkCardView" classname="org.hyperskill.aquarium.Stage1BUnitTest" time="3.652"/>
+  <testcase name="test01_checkNestedScrollView" classname="org.hyperskill.aquarium.Stage1BUnitTest" time="0.113"/>
+  <testcase name="test02_checkImageView" classname="org.hyperskill.aquarium.Stage1BUnitTest" time="0.121"/>
+  <testcase name="test03_checkTvName" classname="org.hyperskill.aquarium.Stage1BUnitTest" time="0.096"/>
+  <testcase name="test04_checkTvDescription" classname="org.hyperskill.aquarium.Stage1BUnitTest" time="0.107"/>
+  <testcase name="test05_checkPageDefaultContent" classname="org.hyperskill.aquarium.Stage1BUnitTest" time="0.083"/>
+  <testcase name="test06_checkPageCustomContent" classname="org.hyperskill.aquarium.Stage1BUnitTest" time="0.093"/>
+  <system-out><![CDATA[Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+resources.arsc in APK 'C:\Users\Bourbon\.m2\repository\org\robolectric\android-all-instrumented\10-robolectric-5803371-i3\android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
